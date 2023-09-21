@@ -46,8 +46,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // Este método é executado novamente toda vez que setState é chamado, por exemplo, como feito
-    // pelo método _incrementCounter acima.
+    // This method is re-executed every time setState is called, e.g. as done
+    // by the _incrementCounter method above.
     return Scaffold(
       appBar: AppBar(
         // TRY THIS: Try changing the color here to a specific color (to
