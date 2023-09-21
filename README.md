@@ -9,7 +9,7 @@
 ![Legenda](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5hCPi3jmDYnzd9g2qAmBaHeilVzINkWszTg&usqp=CAU)
 
 > Repositório para inicialização de projetos DIO (Digital Innovation One), foi criado com objetivo de concluir o 2° desafio da plataforma, o que era somente 
-"Subindo o Seu Projeto Flutter no GitHub".
+"Subindo o Seu Projeto Flutter no GitHub" com algumas alterações como cores e o texto relacionado a home.
 
 ## 📝 Licença
 
